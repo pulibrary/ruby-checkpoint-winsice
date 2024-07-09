@@ -6,4 +6,3 @@ class House
     end
 
 end
- 
