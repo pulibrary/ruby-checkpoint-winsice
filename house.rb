@@ -5,4 +5,5 @@ class House
         @rhyme = File.read(file) 
     end
 
-end 
+end
+ 
